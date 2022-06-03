@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Obinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mad-max-fury&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mad-max-fury&theme=tokyonight)
