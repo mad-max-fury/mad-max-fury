@@ -5,27 +5,19 @@
 <hr/>
 <img src="https://github.com/mad-max-fury/mad-max-fury/blob/main/Twiter.png" alt="image of my name"/>
 
-
-<!--
-**mad-max-fury/mad-max-fury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Nodejs ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ## 📈 GitHub Stats
 <br>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mad-max-fury&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mad-max-fury&theme=tokyonight" />
 </p>
-<p align ="center" height="15rem">
-  <img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad-max-fury&theme=tokyonight"/>
-</p>
+
